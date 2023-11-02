@@ -1,8 +1,14 @@
-# React + Vite
+![image](https://github.com/Rdev921/product-store/assets/61020616/66e69a94-0bf5-490c-b57f-f95529ef7786)
+![image](https://github.com/Rdev921/product-store/assets/61020616/04b4b08d-217c-431e-ad51-3be759e76b0d)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Tech-Stack- HTML, CSS, JSX, ReactJS, Styled-components.
 
-Currently, two official plugins are available:
+Features:
+    Fetch the products using fakestoreapi
+    show the products based on pagination 
+    show 6 products per page 
+    fetch all the products based on different categories like- men's Clothing, Electronics, and women's Clothing.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+
