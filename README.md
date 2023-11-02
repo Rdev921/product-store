@@ -1,8 +1,8 @@
 ![image](https://github.com/Rdev921/product-store/assets/61020616/c591cae9-3c69-4430-8725-c06a552583ad)
 
-![image](https://github.com/Rdev921/product-store/assets/61020616/516206d9-24c2-4dea-940c-90fcdeba6798)
+![image](https://github.com/Rdev921/product-store/assets/61020616/c2888653-4ed2-49f8-b577-c06a7cd4e172)
 
-
+![image](https://github.com/Rdev921/product-store/assets/61020616/694d279c-8963-4813-9395-720dee1f2736)
 
 Tech-Stack- HTML, CSS, JSX, ReactJS, Styled-components.
 
