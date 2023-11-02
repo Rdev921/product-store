@@ -11,6 +11,7 @@ Features:
    2)  show the products based on pagination.
    3)  show 6 products per page. 
    4)  fetch all the products based on different categories like- men's Clothing, Electronics, and women's Clothing.
+   5)  Responsive 
 
 
 
